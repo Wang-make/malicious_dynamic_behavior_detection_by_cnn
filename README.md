@@ -28,3 +28,6 @@ python test.py
 ```
 tensorboard --logdir runs/
 ```
+
+语文地址
+https://www.freebuf.com/articles/system/182566.html
